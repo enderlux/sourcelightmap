@@ -1,7 +1,7 @@
 Source Engine BSP Lightmap Editor
 =================================
 
-**Download:** [Click here!](https://www.dropbox.com/scl/fi/94mgvh98cdt3xnpi22yqw/vradFix0.2.zip?rlkey=7xezyjw1y2corrlshm57yr3ez&dl=1)
+**Download:** [Click here!](https://github.com/rtldg/sourcelightmap/releases)
 
 **Current version**: 0.2  
 **Developed by**: fubarFX, fml42
